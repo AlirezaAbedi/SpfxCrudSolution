@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "spfx-pnp-crud",
+    "libraryId": "b05bae76-2c3e-430a-bf7f-5743e8caed17",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SpfxPnpCrud",
+    "solutionShortDescription": "SpfxPnpCrud description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

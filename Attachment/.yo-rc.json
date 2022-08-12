@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": false,
+    "version": "1.15.0",
+    "libraryName": "digital-consulting",
+    "libraryId": "5bd57ecc-7adb-4484-bb3b-6b0ca1e3938f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "digital-consulting",
+    "solutionShortDescription": "digital-consulting description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

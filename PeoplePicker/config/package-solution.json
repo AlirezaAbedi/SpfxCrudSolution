@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-pnp-crud-client-side-solution",
+    "id": "b05bae76-2c3e-430a-bf7f-5743e8caed17",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SpfxPnpCrud description"
+      },
+      "longDescription": {
+        "default": "SpfxPnpCrud description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-pnp-crud Feature",
+        "description": "The feature that activates elements of the spfx-pnp-crud solution.",
+        "id": "6cd3dd01-2fa3-41ac-8bd9-24a545deb4cf",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-pnp-crud.sppkg"
+  }
+}

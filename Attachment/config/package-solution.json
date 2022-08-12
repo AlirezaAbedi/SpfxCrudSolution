@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "digital-consulting-client-side-solution",
+    "id": "5bd57ecc-7adb-4484-bb3b-6b0ca1e3938f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "digital-consulting description"
+      },
+      "longDescription": {
+        "default": "digital-consulting description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "digital-consulting Feature",
+        "description": "The feature that activates elements of the digital-consulting solution.",
+        "id": "fe8ff96d-4771-4864-824a-c34651103b89",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/digital-consulting.sppkg"
+  }
+}
